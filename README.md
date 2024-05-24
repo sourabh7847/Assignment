@@ -1,5 +1,5 @@
 How run the app
 
-open cmd 
+open in the same directory cmd 
 
 npm install --> npm start
